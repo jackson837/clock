@@ -32,7 +32,7 @@ Mechanical Appearance
 
 Although electronically controlled, the clock was designed to look fully mechanical.
 
-Features include: Exposed gears Wooden gear train Black acrylic Layered construction Laser engraved details
+Features include: Exposed gears, Wooden gear train, acrylic Layered construction Laser engraved details
 
 The planets rotate to create the illusion of an astronomical mechanism while giving the clock additional movement and personality.
 
@@ -64,6 +64,10 @@ schematics where desighed on kecad
 
 Manufacturing Parts were laser cut from plywood.
 Additional components were assembled using spacers acrylic wood double sided tape
+
+After cutting, each wooden layer was carefully sanded, painted, and assembled using screws, spacers, and bearings to create depth and allow moving parts to rotate smoothly. An Arduino Nano was installed inside the clock to control two servo motors. One servo rotates the compass points to display the hour, while the other rotates the rocket to indicate the minutes. A decorative planetary gear train and a miniature solar system were added to enhance the mechanical appearance and showcase engineering concepts.
+
+Finally, the Arduino was programmed using the Arduino IDE to synchronize the servos with the current time, creating a clock that combines modern electronics with the look of a traditional mechanical timepiece. The result is a functional display piece that highlights robotics, engineering, and creative design.
 
 to recrete te clock you just rebuild it with the fusion files since most part are 3d printable even where i used wood or acrylic and when you done you send the clock.ino code to the servo to get it working. 
 Note make sure you servo is a 360 servo that the angle can be control not just speed and direction
