@@ -1,13 +1,15 @@
 # Robotics-Clock-
 Team 7688 Robotics clock
 
-i built A laser-cut mechanical-inspired clock powered by Arduino, servo motors, and a 9v batter.
+i built A laser-cut mechanical clock powered by Arduino, servo motors, and a 9v batter.
+the reason i built it was because i wanted to build something that i that looked attractive, and that me friends will also like.
+the clock works like other clocks. just with it's own special feature. my plan was'nt focused on making a real clock. i just wanted to make a master piece.
 
 Overview
 
 The Clock is a custom-designed wall clock created by me. and inspired by FIRST Robotics Team 7688, steampunk clocks, and astronomical watches such as the Jacob & Co. Astronomia.
 
-Although the clock appears to be a vintage mechanical timepiece, it is actually powered electronically using an Arduino uno board and servo motors.
+Although the clock looks like a vintage mechanical timepiece, it is actually powered electronically using an Arduino uno board and servo motors.
 
 My project combines:
 
@@ -24,7 +26,7 @@ The overall shape is based on Team 7688's compass logo.
 
 Instead of traditional clock hands:
 
-The compass points indicate the hour The arrow indicates the minutes
+The "N" on the compass points indicate the hour The arrow inside indicates the minutes
 
 Mechanical Appearance
 
@@ -40,23 +42,25 @@ A functional planetary gear train sits on the lower-right or top right side of t
 
 It consists of
 
-Ring Gear Sun Gear Three Planet Gears Carrier
+Ring Gear, Sun Gear, Three Planet, Gears Carrier
 
-The planetary system rotates three decorative circular elements while showcasing one of the most recognizable gear mechanisms in engineering.
-
-Hardware Component Purpose Arduino uno Main controller Servo Motors Time movement Transparent Acrylic Protective cover Bearings Smooth rotation 9v batter System power
+Hardware Component Purpose Arduino uno Main controller Servo Motors Time movement.
 
 Software The clock is programmed using the Arduino IDE.
 
 CAD Design
 The clock was designed in Fusion 360.
+<img width="751" height="726" alt="Screenshot 2026-06-17 201907" src="https://github.com/user-attachments/assets/673202bd-5827-40fb-aef9-197f48c0f620" />
 
-Major design considerations included: Laser-cut compatibility Servo placement Gear alignment little variety of materials (wood, acrylic, 3d prints)
 
 Prototyping
 Multiple versions were produced to improve
 
-alignment aesthetics movement gear clearance pitch diameter
+alignment, aesthetics, gear movement, clearance, pitch diameter
+
+schematics where desighed on kecad
+<img width="871" height="612" alt="Screenshot 2026-06-20 090412" src="https://github.com/user-attachments/assets/472966a1-3f27-4b70-ac00-d62931201a4f" />
+
 
 Manufacturing Parts were laser cut from plywood.
 Additional components were assembled using spacers acrylic wood double sided tape
