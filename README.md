@@ -67,3 +67,9 @@ Additional components were assembled using spacers acrylic wood double sided tap
 
 to recrete te clock you just rebuild it with the fusion files since most part are 3d printable even where i used wood or acrylic and when you done you send the clock.ino code to the servo to get it working. 
 Note make sure you servo is a 360 servo that the angle can be control not just speed and direction
+ BOM:
+ servo       https://leeselectronic.com/en/product/4871-servo-motor-mystery-9g-180-degree.html               $14
+ 
+ arduino     https://www.aliexpress.com/item/1005007938089405.html?spm=a2g0o.productlist.main.2.2ff15d12TcZ0vn&algo_pvid=4684835c-3082-45c3-81eb-b2de130a6515&algo_exp_id=4684835c-3082-45c3-81eb-b2de130a6515-1&pdp_ext_f=%7B%22order%22%3A%224928%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007938089405%22%2C%22orig_item_id%22%3A%221005011825851194%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2116.30%216.54%21%21%2176.40%2130.64%21%402101e80317819440413298850ecd50%2112000042938202250%21sea%21CA%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af8a9fc6%3Bm03_new_user%3A-29895%3BpisId%3A5000000204872240&curPageLogUid=959VWFvBP1b5&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007938089405%7C_p_origin_prod%3A1005011825851194       $6.54
+
+ 
